@@ -5,8 +5,9 @@ This project contains automated tests for the SauceDemo UI and AirportGap API.
 
 ## Setup
 
-1. Install Python 3.8 or higher (developed and tested with Python 3.12.9)
-2. Install dependencies:
+1. Make sure Google Chrome is installed in your system
+2. Install Python 3.8 or higher (developed and tested with Python 3.12.9)
+3. Install dependencies:
 ```
 pip install -r requirements.txt
 ``` 
